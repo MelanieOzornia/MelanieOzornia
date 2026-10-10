@@ -2,7 +2,7 @@
 [![Followers](https://img.shields.io/github/followers/MelanieOzornia?label=Followers&style=flat-square)](https://github.com/MelanieOzornia)
 
 ## About
-👋 Heyo, I'm Melanie Ozornia! I'm a first-year Computer Science student at the University of Central Florida (UCF), passionate about web development, building projects, and participating in hackathons.
+👋 Hey, I'm Melanie Ozornia! I'm a first-year Computer Science student at the University of Central Florida (UCF), passionate about web development, building projects, and participating in hackathons.
 
 - 📍 Location: Orlando, Florida
 - 🎓 Education: University of Central Florida (B.S. in Computer Science, 1st Year)
@@ -12,7 +12,7 @@
 - 🛠️ *Currently building my first hackathon and web development projects — check back soon or follow my work on [GitHub](https://github.com/MelanieOzornia?tab=repositories)!*
 
 ## Tech & Interests
-- 🧰 Languages & Tools: Python, JavaScript, HTML/CSS, Git
+- 🧰 Languages & Tools: Python, JavaScript, Git
 - 🔭 Focus: Web Development, Frontend & Backend Basics
 - ❤️ Interests: Hackathons, Learning New Technologies, Problem Solving, and Physics Modeling
 
